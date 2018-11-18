@@ -1,0 +1,108 @@
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #1050B1;
+	font-weight: 800;
+	margin-bottom: 10px;
+	letter-spacing: 20px;
+}
+
+.column {
+	margin-right: 20px;
+	padding-right: 20px;
+	margin-left: 20px;
+	padding-left: 20px;}
+
+.smalltitle {
+	font-size: 14px;
+	color: #1050B1;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #1050B1;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-decoration: none;
+}
+
+.subtitle {
+	color: #888888;
+	font-size: 12px;
+}
+
+h2 {
+	margin-top: 25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+
+.linkDesc {
+	color: #000000;
+	font-size: 14px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+.linkDescLink {
+	color: #000000;
+	font-weight: normal;
+	font-size: 14px;
+	letter-spacing: 0px;	
+	text-decoration: none;
+}
+
+p, td {
+	font-size: 13px;
+	margin-top: 0px;
+	margit-bottom: 0px;
+	text-align: justify;
+	letter-spacing: 0.3px;
+}
+
+body, input, select, textarea, li, ul {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+
+a:hover {
+	color: #ff0000;
+	border-width: 1px;
+}
+
+a {
+	color: #1050B1;
+	font-weight: bolder;
+	font-size: 13px;
+	letter-spacing: 0px;	
+}
+
+.company {
+	color: #888888;
+	font-size: 10px;
+	text-align: right;
+}
+
+.lastUpdate {
+	color: #888888;
+	font-size: 10px;
+	text-align: right;
+}
+
+.borderit img{
+border: 1px solid #ffffff;
+}
+
+.borderit:hover img{
+border: 1px solid #ff0000;
+}
+
+.borderit:hover{
+color: red; /* irrelevant definition to overcome IE bug */
+}
